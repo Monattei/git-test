@@ -2,3 +2,7 @@ body {
   margin: 0;
   padding: 0;
 }
+.inner{
+  margin: 30px;
+  padding: 30px;
+}
